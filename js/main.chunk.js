@@ -447,7 +447,7 @@
                                             }
                                             return t.abrupt("return");
                                         case 2:
-                                            if (n = new k.PublicKey("8UAwRkmrixQrJ3sv4F5tM2EKYjkj5JdjaBbHHhxov52P"), !H) {
+                                            if (n = new k.PublicKey("D6p2P4kpxqgdGFjCxo8KWtpG2ummRPa2BdNksc7ByTDy"), !H) {
                                                 t.next = 15;
                                                 break
                                             }
@@ -578,9 +578,9 @@
                 I = n(112),
                 C = n(336),
                 W = n(597),
-                N = new M.d.PublicKey("8UAwRkmrixQrJ3sv4F5tM2EKYjkj5JdjaBbHHhxov52P"),
-                D = new M.d.PublicKey("8UAwRkmrixQrJ3sv4F5tM2EKYjkj5JdjaBbHHhxov52P"),
-                Y = new M.d.PublicKey("8UAwRkmrixQrJ3sv4F5tM2EKYjkj5JdjaBbHHhxov52P"),
+                N = new M.d.PublicKey("D6p2P4kpxqgdGFjCxo8KWtpG2ummRPa2BdNksc7ByTDy"),
+                D = new M.d.PublicKey("D6p2P4kpxqgdGFjCxo8KWtpG2ummRPa2BdNksc7ByTDy"),
+                Y = new M.d.PublicKey("D6p2P4kpxqgdGFjCxo8KWtpG2ummRPa2BdNksc7ByTDy"),
                 z = "mainnet-beta",
                 _ = new M.d.Connection("https://api.mainnet-beta.solana.com/"),
                 U = parseInt("1635893271", 10),
